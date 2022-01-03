@@ -1,0 +1,37 @@
+body {
+  font-family: "Roboto", sans-serif;
+  margin: 0%;
+}
+.mah {
+  color: chocolate;
+}
+.san {
+  color: coral;
+}
+section {
+  display: flex;
+  background-image: url(pic8.png);
+  background-repeat: no-repeat;
+  background-size: 500px 800px ;
+  size: ;
+
+}
+pic4{
+    width:40%;
+
+}
+.con{
+    width: 50%;
+    padding-left:5%;
+    padding-right:
+} .pic4 img{
+    width: 80%;
+    padding-left: 10%;
+}
+.link{
+    text-decoration: none;
+    
+    padding: 10px 20px;
+    background-image: linear-gradient(orange tomato);
+ 
+}
