@@ -1,37 +1,64 @@
-body {
-  font-family: "Roboto", sans-serif;
-  margin: 0%;
-}
-.mah {
-  color: chocolate;
-}
-.san {
-  color: coral;
-}
-section {
-  display: flex;
-  background-image: url(pic8.png);
-  background-repeat: no-repeat;
-  background-size: 500px 800px ;
-  size: ;
-
-}
-pic4{
-    width:40%;
-
-}
-.con{
-    width: 50%;
-    padding-left:5%;
-    padding-right:
-} .pic4 img{
-    width: 80%;
-    padding-left: 10%;
-}
-.link{
-    text-decoration: none;
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0%;
+    background-image: url(back.jpg);
     
+    
+}
+.fast-section{
+  display: flex;
+}
+.hafe{
+    width: 50%;
+    color: white;
+    background-image: linear-gradient(#4c5b84,#76281e);
+}
+.hafe img{
+    width: 100%;
+    height: 100%;
+}
+#des{
+    color:#ee1f04;
+}
+.logo{
+    
+    font-size: 32px;
+}
+.center {
+    text-align: center;
+    text-justify: auto;
+    margin-top: 22px;
+    
+    
+}
+
+
+a{
+    position: relative;
+    left: 350px;
+    top: 20px;
+    text-decoration: none;
+    background: white;
+    color:black ;
+    padding: 10px 10px;
+    border-radius: 7px;
+    
+}
+.section-tiw{
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.secand{
+    width: 50%;
+    background: #545f94;
+    color: white;
+    
+    
+}
+.secand img{
+    width: 100%;
+}
+.new{
     padding: 10px 20px;
-    background-image: linear-gradient(orange tomato);
- 
 }
